@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/arshit09/todo-react/static/css/main.28ed2570.chunk.css",
+    "main.js": "/arshit09/todo-react/static/js/main.5a6d2015.chunk.js",
+    "main.js.map": "/arshit09/todo-react/static/js/main.5a6d2015.chunk.js.map",
+    "runtime-main.js": "/arshit09/todo-react/static/js/runtime-main.b8b5f224.js",
+    "runtime-main.js.map": "/arshit09/todo-react/static/js/runtime-main.b8b5f224.js.map",
+    "static/js/2.d6c9aeed.chunk.js": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js",
+    "static/js/2.d6c9aeed.chunk.js.map": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js.map",
+    "index.html": "/arshit09/todo-react/index.html",
+    "precache-manifest.c0afd846a5c3e72ccba69beb04cafdc4.js": "/arshit09/todo-react/precache-manifest.c0afd846a5c3e72ccba69beb04cafdc4.js",
+    "service-worker.js": "/arshit09/todo-react/service-worker.js",
+    "static/css/main.28ed2570.chunk.css.map": "/arshit09/todo-react/static/css/main.28ed2570.chunk.css.map",
+    "static/js/2.d6c9aeed.chunk.js.LICENSE": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js.LICENSE",
+    "static/media/o-letter.png": "/arshit09/todo-react/static/media/o-letter.82a1cb0b.png",
+    "static/media/share.png": "/arshit09/todo-react/static/media/share.51e8a2e1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b5f224.js",
+    "static/js/2.d6c9aeed.chunk.js",
+    "static/css/main.28ed2570.chunk.css",
+    "static/js/main.5a6d2015.chunk.js"
+  ]
+}
