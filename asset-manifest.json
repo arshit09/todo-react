@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/arshit09/todo-react/static/css/main.28ed2570.chunk.css",
-    "main.js": "/arshit09/todo-react/static/js/main.5a6d2015.chunk.js",
-    "main.js.map": "/arshit09/todo-react/static/js/main.5a6d2015.chunk.js.map",
-    "runtime-main.js": "/arshit09/todo-react/static/js/runtime-main.b8b5f224.js",
-    "runtime-main.js.map": "/arshit09/todo-react/static/js/runtime-main.b8b5f224.js.map",
-    "static/js/2.d6c9aeed.chunk.js": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js",
-    "static/js/2.d6c9aeed.chunk.js.map": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js.map",
-    "index.html": "/arshit09/todo-react/index.html",
-    "precache-manifest.c0afd846a5c3e72ccba69beb04cafdc4.js": "/arshit09/todo-react/precache-manifest.c0afd846a5c3e72ccba69beb04cafdc4.js",
-    "service-worker.js": "/arshit09/todo-react/service-worker.js",
-    "static/css/main.28ed2570.chunk.css.map": "/arshit09/todo-react/static/css/main.28ed2570.chunk.css.map",
-    "static/js/2.d6c9aeed.chunk.js.LICENSE": "/arshit09/todo-react/static/js/2.d6c9aeed.chunk.js.LICENSE",
-    "static/media/o-letter.png": "/arshit09/todo-react/static/media/o-letter.82a1cb0b.png",
-    "static/media/share.png": "/arshit09/todo-react/static/media/share.51e8a2e1.png"
+    "main.css": "/todo-react/static/css/main.28ed2570.chunk.css",
+    "main.js": "/todo-react/static/js/main.b15ac12d.chunk.js",
+    "main.js.map": "/todo-react/static/js/main.b15ac12d.chunk.js.map",
+    "runtime-main.js": "/todo-react/static/js/runtime-main.a7116d1b.js",
+    "runtime-main.js.map": "/todo-react/static/js/runtime-main.a7116d1b.js.map",
+    "static/js/2.d6c9aeed.chunk.js": "/todo-react/static/js/2.d6c9aeed.chunk.js",
+    "static/js/2.d6c9aeed.chunk.js.map": "/todo-react/static/js/2.d6c9aeed.chunk.js.map",
+    "index.html": "/todo-react/index.html",
+    "precache-manifest.66a002a3a45065d62bb88cd1afb0483d.js": "/todo-react/precache-manifest.66a002a3a45065d62bb88cd1afb0483d.js",
+    "service-worker.js": "/todo-react/service-worker.js",
+    "static/css/main.28ed2570.chunk.css.map": "/todo-react/static/css/main.28ed2570.chunk.css.map",
+    "static/js/2.d6c9aeed.chunk.js.LICENSE": "/todo-react/static/js/2.d6c9aeed.chunk.js.LICENSE",
+    "static/media/o-letter.png": "/todo-react/static/media/o-letter.82a1cb0b.png",
+    "static/media/share.png": "/todo-react/static/media/share.51e8a2e1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8b5f224.js",
+    "static/js/runtime-main.a7116d1b.js",
     "static/js/2.d6c9aeed.chunk.js",
     "static/css/main.28ed2570.chunk.css",
-    "static/js/main.5a6d2015.chunk.js"
+    "static/js/main.b15ac12d.chunk.js"
   ]
 }
