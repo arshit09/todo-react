@@ -1,3 +1,11 @@
+# EzDOne - Task Scheduler
+To Do List.
+> In development but you can still see our UI.
+
+# Website Screenshots
+#### **Main Page**
+![Main Page](https://raw.githubusercontent.com/arshit09/todo-react/master/src/main.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
