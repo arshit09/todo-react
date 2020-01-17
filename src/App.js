@@ -5,8 +5,6 @@ import sharesocial from "./share.png";
 import "./App.css";
 
 class App extends React.Component {
-
-
   constructor(props) {
     super(props);
     this.state = {
@@ -14,8 +12,6 @@ class App extends React.Component {
       list: []
     }
   }
-
-
   addItem(todoValue) {
     if (todoValue !== "") {
       const newItem = {
