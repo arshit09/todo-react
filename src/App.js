@@ -75,7 +75,7 @@ class App extends React.Component {
                     <img src={dustbin} width="20" className="dust-pos1" border="1" alt="delete img"
                       onClick={() => this.deleteItem(item.id)} />
                     <img src={sharesocial} width="20" className="share-pos1" border="1" alt="share img"
-                      onClick={() => window.open("https://api.whatsapp.com/send?phone=+917405937339&text=+{item.value}")} />
+                      onClick={() => window.open(`https://api.whatsapp.com/send?phone=+917405937339&text=+${item.value}`)} />
                   </li>
                 );
               })}
