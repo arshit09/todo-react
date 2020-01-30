@@ -1,5 +1,5 @@
-# EzDOne - Task Scheduler
-To Do List.
+# EzDone - Task Scheduler
+To Do List. Try live project [here](https://arshit09.github.io/todo-react/ "here").
 > In development but you can still see our UI.
 
 # Website Screenshots
